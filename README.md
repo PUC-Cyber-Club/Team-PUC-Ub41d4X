@@ -121,8 +121,8 @@ To build a high-skilled cybersecurity force representing Premier University in t
 ## 🤝 **Contact & Social Links**
 
 * 🌐 PUCC Official Page
-* 📧 Team Email: *add-your-email-here*
-* 🐙 GitHub: *your-team-repo-link*
+* 📧 Team Email: *premieruniversity.cyberclub@gmail.com*
+* 🐙 GitHub: *[team-repo-link](https://github.com/PUC-Cyber-Club/Team-PUC-Ub41d4X)*
 
 ---
 
